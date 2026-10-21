@@ -1,0 +1,19 @@
+
+# Temporary files
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Password files
+password.txt
+*.password
+
+# IDE configuration folders
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
